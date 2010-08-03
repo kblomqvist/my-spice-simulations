@@ -1,0 +1,22 @@
+Circuit: * I:\workspace\mySPICE\Regulators\CurrentLimitingCircuit.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Tue Aug 03 13:39:10 2010
+Total elapsed time: 0.140 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2095
+traniter = 2082
+tranpoints = 1042
+accept = 1042
+rejected = 0
+matrix size = 7
+fillins = 0
+solver = Normal
+Matrix Compiler1:      29 opcodes  2.2/[1.8]/2.3
+Matrix Compiler2: 637 bytes object code size  1.8/2.1/[1.7]
+
+
